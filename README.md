@@ -1,0 +1,1 @@
+Some base research I did @ UCI when studying the application of neural networks, this project shows a poor (but reasonable compared to other studies!) application of AI in continuous sign language translation
